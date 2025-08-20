@@ -1,10 +1,8 @@
-
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Licores Premium - Tienda Online</title>
+    <title>ARG Bebidas Argentinas - Tienda Online</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
     <style>
@@ -35,7 +33,7 @@
             <div class="flex justify-between items-center">
                 <div class="flex items-center">
                     <img src="https://placehold.co/50" alt="Logo de Licores Premium - Copa de cóctel dorada sobre fondo oscuro" class="mr-3">
-                    <h1 class="title-font text-2xl md:text-3xl">Licores Premium</h1>
+                    <h1 class="title-font text-2xl md:text-3xl">ARG Bebidas Argentinas</h1>
                 </div>
                 <div class="relative">
                     <button id="cart-button" class="flex items-center bg-amber-700 hover:bg-amber-800 px-4 py-2 rounded-full transition">
@@ -65,8 +63,8 @@
     <section class="bg-gray-900 text-white py-12 md:py-16">
         <div class="container mx-auto px-4 flex flex-col md:flex-row items-center">
             <div class="md:w-1/2 mb-8 md:mb-0">
-                <h2 class="title-font text-4xl md:text-5xl mb-4">Las mejores bebidas para tus momentos especiales</h2>
-                <p class="text-lg mb-6">Descubre nuestra selección premium de licores importados y nacionales.</p>
+                <h2 class="title-font text-4xl md:text-5xl mb-4">De raíz noble, de copa fina</h2>
+                <p class="text-lg mb-6">Comprás fácil, recibís rápido y listo: vos ponés la compañía, nosotros ponemos la bebida.</p>
                 <a href="#products" class="bg-amber-600 hover:bg-amber-700 text-white py-3 px-6 rounded-md inline-block">Ver productos</a>
             </div>
             <div class="md:w-1/2">
